@@ -85,6 +85,16 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+/* Centered Image Code */
+
+img {
+    /* display: block; */
+    /* width: 60%; */
+    margin: auto;
+  }
+  
+
+
 header {
     text-align: center;
     color: #fff;
